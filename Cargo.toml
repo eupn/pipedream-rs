@@ -1,0 +1,10 @@
+[package]
+name = "pipedream-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["eupn <eupn@protonmail.com>"]
+
+[dependencies]
+lazy_static = "1.4.0"
+serde = "1.0.136"
+serde_json = "1.0.79"
